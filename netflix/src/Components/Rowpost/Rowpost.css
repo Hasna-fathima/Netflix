@@ -1,0 +1,28 @@
+.row{
+ margin-left: 20px;
+ color:#fff;
+ position:sticky
+ 
+ 
+
+}
+.posters{
+    padding: 20px;
+    display: flex;
+    overflow-x:  scroll;
+    overflow-y: hidden;
+}
+.poster{
+    max-height:170px;
+    margin-right:10px;
+
+}
+
+.contents{
+    align-items: center;
+    margin-top: 300px;
+}
+.smallposter{
+    max-height: 140px;
+    margin-right:10px;
+}
